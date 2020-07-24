@@ -1,10 +1,10 @@
 # zshrc-for-docker
 Extended ~/.zshrc for Docker/Docker compose
-```
+``` bash
 vim ~/.zshrc
 ```
 
-```
+``` bash
 # Docker compose
 alias dc-ps='docker-compose ps'
 alias dc-start='docker-compose start'
